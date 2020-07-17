@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/fabrv/fabrv/master/github.png" width="100%"/>
-
 ### Hola! 👋
 🛠 I'm currently working on: 
 - [BigoJs](https://github.com/fabrv/bigojs), a boilerplater and serverside rendered framework for NodeJs :)
