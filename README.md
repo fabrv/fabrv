@@ -1,4 +1,4 @@
-<img src="github.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/fabrv/fabrv/master/github.png" width="100%"/>
 
 ### Hola! 👋
 🛠 I'm currently working on: 
